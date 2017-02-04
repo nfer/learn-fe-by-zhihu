@@ -3,6 +3,8 @@
 
 ![效果图](./img/tabnavs-animation.gif)
 
+我把该部分的代码单独抽离出来，在[codepen](http://codepen.io/nfer/pen/XpzOOj)上进行了完全复现。
+
 具体实现包含以下几个部分:
  1. 底部小蓝条
  2. 小蓝条跟随标签
